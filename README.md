@@ -1,75 +1,130 @@
-<p align="center">
-  <img src="./public/logo-full.svg" />
-</p>
+# Moveit
+
+<p align="center"><img src="https://raw.githubusercontent.com/guilhermecapitao/nlw04-moveit-web/206d2e078394ca207037c0a86a976a0c8a5e6257/.github/moveit.svg"/></p>
+<h4 align="center">NextLevelWeek 4.0 🚀</h4>
+<h4 align="center">Application made during a NLW, made with love by @Rocketseat 💜</h4>
 
 <p align="center">
-  <a href="https://github.com/csorlandi">
-    <img alt="Made by Thiago Silva" src="https://img.shields.io/badge/made%20by-Thiago%20Silva-5965e0">
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#author">Author</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/compromitto/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)%5D">
   </a>
+  <a href="./LICENSE">
+    <img alt="GitHub license" src="https://img.shields.io/badge/License%20MIT-5eb85e?style=for-the-badge&logo=&logoColor=2ee62e&labelColor=1781EB)%5D">
+  </a>
+</h1>
 
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/th1ag0-Zz/NLW-04-Move.it?color=rgb(89,101,224)">
+<br>
 
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/th1ag0-Zz/NLW-04-Move.it?color=rgb(89,101,224)">
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
+<p align="center" id="project">
+  Moveit is a project developed during the next level week, promoted by Rocketseat, the aim of the project is to put Pomodoro's theory into practice. 
+  </p>
+<p align="center" id="project">
+  The Pomodoro concept is that the person who is going to study or perform a task takes exactly 25 minutes. 
+  </p>
+<p align="center" id="project">
+  Completing it or not, he should stop and rest for 5 minutes.
+  With that the application has a counter that every 25 minutes it releases a challenge to do, and it is gathering points
 </p>
 
-<p align="center">
-  <img src="./.github/home.svg" />
-</p>
+<br>
 
-# :pushpin: Tabela de conteúdos
+<h2 id="techs">
+  🚀 Technologies
+</h2>
 
-* [Sobre o projeto](#satisfied-sobre-o-projeto)
-* [Layout](#panda_face-layout)
-* [Tecnologias](#snowflake-tecnologias)
-* [Como rodar o projeto](#question-como-rodar-o-projeto)
-* [Autor](#closed_book-autor)
+This project uses to work:
 
----
-# :satisfied: Sobre o projeto
-O projeto Move.it, desenvolvido durante a quarta edição da NextLevelWeek by [Rocketseat](https://rocketseat.com.br/) na trilha React, consiste em ajudar as pessoas à controlar seu tempo na frente do PC para poder fazer pequenas pausas e assim, descansar a visão e o corpo.
+- [Next.js](https://nextjs.org)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [Node.js](https://nodejs.org/en/docs/)
 
----
-# :panda_face: Layout
-* [Figma](https://www.figma.com/file/W9GhJmXJNOZsvA7kcEqOlc/Move.it-1.0-Copy)
+<br>
+<h2 id="install">
+  🎓 Install Guid
+</h2>
+<br>
 
----
-# :snowflake: Tecnologias
-* [TypeScript](https://www.typescriptlang.org/)
-* [React](https://pt-br.reactjs.org/)
-* [NextJs](https://nextjs.org/)
+## Installing Node.js
 
----
-# :question: Como rodar o projeto
-## Acessando direto pelo site:
-* Você pode clicar nesse [link](http://move-it-th1ag0-zz.vercel.app/) e acessar a aplicação que está hospedada na plataforma da Vercel.
+<br>
+<h2> Node.js 🟩</h2>
 
-## Rodando na máquina local:
-(certifique-se de ter instalado na sua máquina o [Node](https://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/))
-1. Abra o terminal na pasta desejada para clonar o repositório e execute o comando:
-``` bash
-git clone https://github.com/th1ag0-Zz/NLW-04-Move.it.git
-```
-2. Depois de concluído, execute os seguintes comandos para iniciar o server e será aberto no seu navegador uma aba com o projeto já rodando:
-``` bash
-cd NLW-04_Move.it/
-```
-Para instalar as dependencias:
-``` bash
-yarn
-```
-Inciando o server:
-``` bash
-yarn start
-```
-4. Por fim, abra a pasta clonada em seu editor de códigos favorito e faça as suas alterações! xD
+you will only need the node
 
----
-# :closed_book: Autor
-Feito por [Thiago Silva](https://github.com/th1ag0-Zz).
-### :octocat: Github: https://github.com/th1ag0-Zz
-### :link: LinkedIn: https://www.linkedin.com/in/thiago-furtado-silva/
-### :camera: Instagram: https://www.instagram.com/thiag0_dev/
-### :mailbox: Gmail: thiagof89.tf@gmail.com
-### :rocket: Rocketseat: https://app.rocketseat.com.br/me/thiago-furtado-1575175681
+</br>
+You can install from here:
+
+https://nodejs.org/en/download/
+
+</br>
+
+## Getting Started
+
+    --Open terminal--
+
+    #Clone repo from github
+    git clone https://github.com/compromitto/moveit.git
+
+    #Entry in Rocketpay folder
+    cd moveit
+
+    #Install deps
+    yarn
+    # org
+    npm install
+
+    #Run the development server:
+
+    npm run dev
+    # or
+    yarn dev
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+</br>
+
+# Features
+
+- Add OAuth to login with github
+- Sync Progressbar in Coutndown button with a Countdown
+- Add Leaderboard pages
+- Create Landing pages
+- Add Control Session
+
+<center>
+<a href="https://github.com/compromitto/">
+  <img src="https://avatars.githubusercontent.com/u/58779341?s=460&v=4" width="100px;" alt="My photo"/>
+  <br />
+  <sub><b>João Pedro Alves</b></sub>
+</a>
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/compromitto/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)%5D">
+</a>
+</center>
