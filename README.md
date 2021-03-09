@@ -118,7 +118,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 <a href="https://github.com/compromitto/">
   <img src="https://avatars.githubusercontent.com/u/58779341?s=460&v=4" width="100px;" alt="My photo"/>
   <br />
-  <sub><b>João Pedro Alves</b></sub>
+  <sub><b>Marcos Antonio</b></sub>
+  
+  <br />
+  <a href="https://www.dubcom.com.br"> 
 </a>
 
 <br />
