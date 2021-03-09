@@ -121,7 +121,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
   <sub><b>Marcos Antonio</b></sub>
   
   <br />
-  <a href="https://www.dubcom.com.br"> 
+  DUBCOM (https://www.dubcom.com.br) 
 </a>
 
 <br />
