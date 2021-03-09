@@ -119,10 +119,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
   <img src="https://avatars.githubusercontent.com/u/58779341?s=460&v=4" width="100px;" alt="My photo"/>
   <br />
   <sub><b>Marcos Antonio</b></sub>
-  
-  <br />
-  DUBCOM (https://www.dubcom.com.br) 
+ 
 </a>
+<br />
+  DUBCOM (https://www.dubcom.com.br) 
 
 <br />
 <br />
